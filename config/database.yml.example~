@@ -1,0 +1,25 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: chat_development
+  pool: 5
+  timeout: 5000
+  username: 
+  password:
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: chat_test
+  pool: 5
+  timeout: 5000
+  username: 
+  password: 
+production:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: chat_production
+  pool:     5
+  username: 
+  password: 
+  template: template0
