@@ -85,15 +85,4 @@ Email
 
 The application is configured to send email using a Gmail account. Add credentials in '.env' file. Example you can get from '.env.example' file.
 
-Current Staging Location
-------------------------
-
-[ruby-chat-st.loc](http://ruby-chat-st.loc/)
-
-[ruby-chat.tk](http://www.ruby-chat.tk)
-
-
-License
--------
-
 Chat is made available under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
